@@ -1,0 +1,151 @@
+<headerView></headerView>
+<view class="banner">
+  <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_ui_banner.jpg"></image>
+</view>
+<view class="uiDescrition">
+  <view class="ui_txt1">新视觉实训锻造「全能UI」课程2.0标准</view>
+  <view class="ui_txt2">横跨「平面」+「界面」+「网站」+「交互」+「动效」</view>
+</view>
+<view class="out">
+  <view class="outTit">
+    专业软件技能
+  </view>
+  <view class="outCon outConIcon">
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_ui_PS.jpg"></image>
+      <view>photoshop</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_ui_ai.jpg"></image>
+      <view>Illustrator</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_ui_dw.jpg"></image>
+      <view>Dreamweaver</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_ui_cdr.jpg"></image>
+      <view>CoreDraw</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_ui_ae.jpg"></image>
+      <view>After Effect</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_ui_c4d.jpg"></image>
+      <view>Cinema 4D</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    平面设计能力
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_UI_nl1.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">人像精修设计</view>
+      <view class="li">展览展示设计</view>
+      <view class="li">户外广告设计</view>
+      <view class="li">LED屏幕广告设计</view>
+      <view class="li">手机移动通信广告</view>
+      <view class="li">微信信息流广告设计</view>
+      <view class="li">折页设计</view>
+      <view class="li">会员卡设计</view>
+      <view class="li">DM商业宣传品</view>
+      <view class="li">招贴设计</view>
+      <view class="li">灯箱海报设计</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    界面设计能力
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_UI_nl2.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">icon图标设计</view>
+      <view class="li">扁平化图标设计</view>
+      <view class="li">仿真化图标设计</view>
+      <view class="li">多媒体界面设计</view>
+      <view class="li">游戏界面设计</view>
+      <view class="li">手机系统界面设计</view>
+      <view class="li">智能家庭控制界面设计</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    网站设计能力
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_UI_nl3.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">化妆品精修</view>
+      <view class="li">家电产品精修</view>
+      <view class="li">服饰商品精修</view>
+      <view class="li">电商合成海报</view>
+      <view class="li">商业活动合成海报</view>
+      <view class="li">商业动效海报合成</view>
+      <view class="li">店铺界面设计</view>
+      <view class="li">产品详情页设计</view>
+      <view class="li">活动专题页设计</view>
+      <view class="li">企业网站设计</view>
+      <view class="li">商业网站设计</view>
+      <view class="li">手机企业站设计</view>
+      <view class="li">手机电商站设计</view>
+    </view>
+  </view>
+</view>
+<view class="out">
+  <view class="outTit">
+    交互设计能力
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_ui_jiaohu.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">智能手表交互界面设计</view>
+      <view class="li">智能手环交互界面设计</view>
+      <view class="li">APP交互原型设计</view>
+      <view class="li">APP应用界面设计</view>
+      <view class="li">APP交互动效设计</view>
+      <view class="li">H5在线广告设计</view>
+      <view class="li">H5交互广告设计</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    动效设计能力
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_UI_nl5.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">C4D三维视觉设计</view>
+      <view class="li">MG动效设计制作</view>
+      <view class="li">角色MG动画制作</view>
+      <view class="li">广告演示MG动画设计</view>
+      <view class="li">公益宣传MG动画设计</view>
+      <view class="li">科技广告MG动画设计</view>                
+      <view class="li">婚礼MG动画设计</view>
+      <view class="li">UI交互动画</view>
+      <view class="li">APP界面视频包装</view>
+    </view>
+  </view>
+</view>
+<footerView></footerView>

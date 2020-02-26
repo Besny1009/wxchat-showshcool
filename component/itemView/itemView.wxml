@@ -1,0 +1,11 @@
+<navigator class="itemView" open-type="navigateTo" url="/pages/detail/detail?id={{datas.id}}">
+  <view class="pic">
+      <image src="{{datas.picurl}}"></image>
+  </view>
+  <view class="txt">
+      <view class="h3">{{datas.title}}</view>
+      <view class="info">
+        作者：<text>{{datas.author}}</text> - 时间：<text>{{datas.posttime}}</text>
+       </view>
+  </view>
+</navigator>

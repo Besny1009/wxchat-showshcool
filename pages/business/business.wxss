@@ -1,0 +1,67 @@
+.banner image{
+  width: 750rpx;
+  height: 1112rpx;
+  display: block;
+}
+
+.out{
+  padding: 25rpx 0;
+  background: #fff;
+}
+.outTit{
+  font-size: 46rpx;
+  color: #6a10d0;
+  padding-left: 30rpx;
+  font-weight: 900;
+}
+
+.outTit text{
+  display: inline-block;
+  font-size:70rpx;
+}
+
+.outConIcon{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.outConIcon .item{
+  padding: 0 20rpx 20rpx;
+  color: #000;
+  font-size: 28rpx;
+  text-align: center;
+  margin-top: 30rpx;
+}
+
+.outConIcon .item image{
+  width: 200rpx;
+  height: 200rpx;
+  border-radius: 50%;
+  display: block;
+}
+.outConIcon .item view{
+  padding-top: 15rpx;
+}
+.mainContent{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding-top: 30rpx;
+}
+.business-img{
+  box-shadow: 0 10rpx 10rpx rgba(0, 0, 0, 0.1);
+  border-radius: 5rpx;
+  margin-bottom: 20rpx;
+}
+.business-img image{
+  width: 330rpx;
+  height: 180rpx;
+  display: block;
+}
+
+.business-img .txt{
+  padding: 15rpx;
+  text-align: center;
+  font-size: 26rpx;
+}

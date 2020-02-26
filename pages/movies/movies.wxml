@@ -1,0 +1,203 @@
+<headerView></headerView>
+<view class="banner">
+  <image src="https://qingnian8.oss-cn-qingdao.aliyuncs.com/qnschool/ysBanner1.jpg"></image>
+</view>
+<view class="out">
+  <view class="outTit">
+    软件职业技能
+  </view>
+  <view class="outCon outConIcon">
+    <view class="item">
+      <image src="/images/ruanjian(5).png"></image>
+      <view>photoshop</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/ai.png2.png"></image>
+      <view>Illustrator</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_ys_pr.jpg"></image>
+      <view>Premiere</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_ys_.jpg"></image>
+      <view>Edius</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/ysrjjn5.jpg"></image>
+      <view>NUKE</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_ys_ae.jpg"></image>
+      <view>After Effect</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/ysrjjn7.jpg"></image>
+      <view>Cinema 4D</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/ysrjjn8.jpg"></image>
+      <view>MAYA</view>
+    </view>
+     <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/ysrjjn9.jpg"></image>
+      <view>ZBRUSH</view>
+    </view>
+  </view>
+</view>
+<view class="out">
+  <view class="outTit">
+    影视视频剪辑
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/ysspjj.jpg2.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">婚礼微电影剪辑</view>
+      <view class="li">城市专题片剪辑</view>
+      <view class="li">主题宣传片剪辑</view>
+      <view class="li">预告宣传片剪辑</view>
+    </view>
+  </view>
+</view>
+<view class="out">
+  <view class="outTit">
+    影视视频剪辑
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/hqhcsj.jpg3.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">栏目包装合成设计</view>
+      <view class="li">片头片尾设计合成</view>
+      <view class="li">广告宣传片包装合成</view>
+      <view class="li">影视后期制作合成</view>
+      <view class="li">影视特效合成设计</view>
+      <view class="li">专业级影视调色</view>
+    </view>
+  </view>
+</view>
+<view class="out">
+  <view class="outTit">
+    MG动画设计
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-pc/maya/mgdhsj.gif"></image>
+    </view>
+    <view class="txt">
+      <view class="li">MG动效设计制作</view>
+      <view class="li">角色MG动画制作</view>
+      <view class="li">广告演示MG动画设计</view>
+      <view class="li">公益宣传MG动画设计</view>
+      <view class="li">科技广告MG动画设计</view>
+      <view class="li">婚礼MG动画设计</view>
+    </view>
+  </view>
+</view>
+<view class="out">
+  <view class="outTit">
+    三维设计包装
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/swsjbz.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">仿真产品渲染</view>
+      <view class="li">三维LOGO设计</view>
+      <view class="li">三维特效表现</view>
+      <view class="li">三维视觉包装</view>
+    </view>
+  </view>
+</view>
+<view class="out">
+  <view class="outTit">
+    商业项目案例设计
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/syxmal.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">综艺节目包装</view>
+      <view class="li">新闻类栏目包装</view>
+      <view class="li">体育类栏目包装</view>
+      <view class="li">智能数字产品广告设计</view>
+      <view class="li">流体广告设计</view>
+      <view class="li">化妆品广告设计</view>                
+      <view class="li">营销短视频设计</view>
+    </view>
+  </view>
+</view>
+<view class="out">
+  <view class="outTit">
+    三维高级模型设计制作
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/MaYa_kc1.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">道具模型制作</view>
+      <view class="li">场景模型制作</view>
+      <view class="li">卡通角色制作</view>
+      <view class="li">真实角色制作</view>
+      <view class="li">次时代角色制作</view>
+    </view>
+  </view>
+</view>
+<view class="out">
+  <view class="outTit">
+    三维高级渲染
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/MaYa_kc2.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">场景灯光设计</view>
+      <view class="li">角色灯光设计</view>
+      <view class="li">程序纹理材质制作</view>
+      <view class="li">贴图材质制作</view>
+      <view class="li">皮肤材质制作</view>
+      <view class="li">毛发材质制作</view>  
+    </view>
+  </view>
+</view>
+<view class="out">
+  <view class="outTit">
+    三维绑定制作
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/MaYa_kc3.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">角色骨骼绑定制作</view>
+      <view class="li">机械绑定制作</view>
+      <view class="li">表情绑定制作</view> 
+    </view>
+  </view>
+</view>
+<view class="out">
+  <view class="outTit">
+    三维高级动画设计
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/MaYa_kc4.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">运动规律</view>
+      <view class="li">角色走跑跳动画制作</view>
+      <view class="li">角色重力动画制作</view>
+      <view class="li">角色表演动画</view>
+      <view class="li">多角色互动动画</view>
+      <view class="li">角色打斗动画</view>  
+    </view>
+  </view>
+</view>
+<footerView></footerView>

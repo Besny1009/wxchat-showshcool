@@ -1,0 +1,7 @@
+<view class="hyList">
+  <block wx:for="{{listArr}}" wx:key="*this" >
+    <itemView datas="{{item}}"></itemView>
+  </block>
+</view>
+<loadingNumber loadStatus="{{loadStatus}}"></loadingNumber>
+

@@ -1,0 +1,132 @@
+<headerView></headerView>
+<view class="banner">
+  <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/seobanner.jpg"></image>
+</view>
+<view class="out">
+  <view class="outTit">
+    学习<text>6</text>大设计必备软件
+  </view>
+  <view class="outCon outConIcon">
+    <view class="item">
+      <image src="/images/ruanjian(5).png"></image>
+      <view>photoshop</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/ai.png2.png"></image>
+      <view>Illustrator</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/UI_kc_dw.png"></image>
+      <view>Dreamweaver</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/UI_kc_co.png"></image>
+      <view>Coreldraw</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/ysrjjn6.jpg"></image>
+      <view>After Effect</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/ysrjjn7.jpg"></image>
+      <view>Cinema 4D</view>
+    </view>
+  </view>
+</view>
+<view class="out">
+  <view class="outTit">
+    掌握<text>12</text>项电商美工核心技能
+  </view>
+  <view class="mainContent">
+    <view class="business-img">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/seoJn01.jpg"></image>
+      <view class="txt">— 产品精修 —</view>
+    </view>
+    <view class="business-img">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/seoJn02.jpg"></image>
+      <view class="txt">— 人像精修 —</view>
+    </view>
+    <view class="business-img">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/seoJn03.jpg"></image>
+      <view class="txt">— 字体设计 —</view>
+    </view>
+    <view class="business-img">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/seoJn04.jpg"></image>
+      <view class="txt">— 电商插画设计 —</view>
+    </view>
+    <view class="business-img">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/seoJn05.jpg"></image>
+      <view class="txt">— 合成海报设计 —</view>
+    </view>
+    <view class="business-img">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/seoJn06.jpg"></image>
+      <view class="txt">— C4D三维海报创意 —</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    培养<text>8</text>项精湛的技术能力
+  </view>
+  <view class="mainContent">
+    <view class="business-img">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/seoPy01.jpg"></image>
+      <view class="txt">— HTML5前端代码 —</view>
+    </view>
+    <view class="business-img">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/seoPy02.jpg"></image>
+      <view class="txt">— H5互动广告 —</view>
+    </view>
+    <view class="business-img">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/seoPy03.jpg"></image>
+      <view class="txt">— 淘宝开店流程 —</view>
+    </view>
+    <view class="business-img">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/seoPy04.jpg"></image>
+      <view class="txt">— 淘宝店铺装修 —</view>
+    </view>
+    <view class="business-img">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/seoPy05.jpg"></image>
+      <view class="txt">— SEO/SEM优化推广 —</view>
+    </view>
+    <view class="business-img">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/seoPy06.jpg"></image>
+      <view class="txt">— 淘宝推广直通车 —</view>
+    </view>
+    <view class="business-img">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/seoPy07.jpg"></image>
+      <view class="txt">— 手淘运营 —</view>
+    </view>
+    <view class="business-img">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/seoPy08.jpg"></image>
+      <view class="txt">— 打造爆款策划 —</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    精通<text>4</text>项电商视觉包装
+  </view>
+  <view class="mainContent">
+    <view class="business-img">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/seoYs01.jpg"></image>
+      <view class="txt">— 电商广告合成 —</view>
+    </view>
+    <view class="business-img">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/seoYs02.jpg"></image>
+      <view class="txt">— 粒子/光线等插件应用 —</view>
+    </view>
+    <view class="business-img">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/seoYs03.jpg"></image>
+      <view class="txt">— 电商短视频剪辑 —</view>
+    </view>
+    <view class="business-img">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019-seo/seoYs04.jpg"></image>
+      <view class="txt">— C4D电商特效表现 —</view>
+    </view>
+  </view>
+</view>
+
+<footerView></footerView>

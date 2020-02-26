@@ -1,0 +1,43 @@
+.detailContent{
+  padding: 30rpx 10rpx;
+}
+
+.contentTitle{
+  font-size: 34rpx;
+  color: #222;
+  text-align: justify;
+  padding: 10rpx;
+  margin-bottom: 10rpx;
+}
+
+.contentElse{
+  display: flex;
+  flex-wrap: nowrap;
+  color: #555;
+  font-size: 24rpx;
+  margin-bottom: 30rpx;
+}
+
+.contentElse view{
+  padding: 0 10rpx;
+}
+
+.contentDes{
+  padding: 15rpx;
+  background: #31c6ff;
+  border-radius: 10rpx;
+  line-height: 1.25em;
+  font-size: 26rpx;
+  text-align: justify;
+  box-sizing: border-box;
+}
+
+.contentAll{
+  margin-top: 30rpx;
+  /* text-align: justify; */
+  line-height: 1.7rem;
+  font-size: 30rpx;
+}
+
+
+

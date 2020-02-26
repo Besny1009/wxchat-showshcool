@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/ps/ps",
+    "pages/works/works",
+    "pages/detail/detail",
+    "pages/design/design",
+    "pages/ui/ui",
+    "pages/web/web",
+    "pages/movies/movies",
+    "pages/business/business",
+    "pages/hyList/hyList"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "优课学院",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "selectedColor":"#31c6ff",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/home.png",
+        "selectedIconPath": "images/home-h.png"
+      },
+      {
+        "pagePath": "pages/hyList/hyList",
+        "text": "行业",
+        "iconPath": "images/list.png",
+        "selectedIconPath": "images/list-h.png"
+      },
+      {
+        "pagePath": "pages/works/works",
+        "text": "学生作品",
+        "iconPath": "images/user.png",
+        "selectedIconPath": "images/user-h.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,13 @@
+<import src="../../wxParse/wxParse.wxml"/>
+<view class="detailContent">
+  <view class="contentTitle">{{detail.title}}</view>
+  <view class="contentElse">
+    <view class="elsePosttime">发布时间：{{detail.posttime}}</view>
+    <view class="elseAuthor">作者：{{detail.author}}</view>
+    <view class="elseHits">阅读量：{{detail.hits}}</view>
+  </view>
+  <view class="contentDes">{{detail.description}}</view>
+  <view class="contentAll">
+    <template is="wxParse" data="{{wxParseData:article.nodes}}"/>
+  </view>
+</view>

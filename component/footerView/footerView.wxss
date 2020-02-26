@@ -1,0 +1,17 @@
+.footer{
+  padding:30rpx 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #f2f2f2;
+}
+
+.footer image{
+  width: 150rpx;
+  height: 32rpx;
+}
+.footer text{
+  font-size: 20rpx;
+  color: #666;
+  padding-top: 5rpx;
+}

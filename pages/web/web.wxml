@@ -1,0 +1,201 @@
+<headerView></headerView>
+<view class="banner">
+  <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/webBanner.jpg1.jpg"></image>
+</view>
+<view class="out">
+  <view class="outTit">
+    专业软件技能
+  </view>
+  <view class="outCon outConIcon">
+    <view class="item">
+      <image src="/images/ruanjian(5).png"></image>
+      <view>photoshop</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/web2.png"></image>
+      <view>Dreamweaver</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/web3.png"></image>
+      <view>Illustrator</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/web4.png"></image>
+      <view>Sublime</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/web5.png"></image>
+      <view>微信Web工具</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    网站界面设计
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/webmajor01.jpg2.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li" style='width:100%'>扁平化简约风格网站设计</view>
+      <view class="li" style='width:100%'>互动游戏类网站设计</view>
+      <view class="li" style='width:100%'>企业官网设计</view>
+      <view class="li" style='width:100%'>宣传营销型网站设计</view>
+      <view class="li" style='width:100%'>活动专题类网站设计</view>
+      <view class="li" style='width:100%'>个人品牌网站设计</view>
+      <view class="li" style='width:100%'>响应式网站设计</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    PC端网站布局
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/webmajor02.jpg3.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">PC端企业站项目实践</view>
+      <view class="li">二级页面布局</view>
+      <view class="li">网站代码优化技巧</view>
+      <view class="li">网站内部优化原理</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    HTML5+CSS3项目
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/webmajor03.jpg4.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li" style='width:100%'>新增的结构元素</view>
+      <view class="li" style='width:100%'>增强的表单元素和属性</view>
+      <view class="li" style='width:100%'>视频背景</view>
+      <view class="li" style='width:100%'>多样化的服务端字体类型</view>
+      <view class="li" style='width:100%'>种类多样的选择器</view>
+      <view class="li" style='width:100%'>过渡与动画特效</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    响应式网站开发
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/webmajor04.jpg5.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li" style='width:100%'>Bootstrap全局CSS样式</view>
+      <view class="li" style='width:100%'>Bootstrap组件模块</view>
+      <view class="li" style='width:100%'>JS插件模块</view>
+      <view class="li" style='width:100%'>PC端网站搭建</view>
+      <view class="li" style='width:100%'>适配平板及手机端设备样式</view>
+      <view class="li" style='width:100%'>使用插件swiper调试触屏轮播器</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    js网页交互特效
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/webmajor05.jpg6.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">Javascript源生开发</view>
+      <view class="li">Jquery框架技术</view>
+      <view class="li">弹出视频动画特效</view>
+      <view class="li">3D旋转轮播特效</view>
+      <view class="li">手风琴折叠菜单特效</view>
+      <view class="li">返回顶部特效</view>                
+      <view class="li">Ajax实现瀑布流特效</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    PHP+MySQL后端项目
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/webmajor06.jpg7.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li" style='width:100%'>PHP开发环境搭建</view>
+      <view class="li" style='width:100%'>PHP常用的功能模块</view>
+      <view class="li" style='width:100%'>Mysql数据库</view>
+      <view class="li" style='width:100%'>留言本上线发布调试</view>
+      <view class="li" style='width:100%'>CMS二次开发</view>
+      <view class="li" style='width:100%'>商业网站开发</view>
+      <view class="li" style='width:100%'>网站上线流程</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    Vue开发WebApp项目
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/webmajor07.jpg8.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">Vue框架及ES6应用</view>
+      <view class="li">Vue开发环境的搭建</view>
+      <view class="li">组件和todolist项目</view>
+      <view class="li">数据的交互</view>
+      <view class="li">实战项目的技术分析</view>
+    </view>
+  </view>
+</view>
+<view class="out">
+  <view class="outTit">
+    微信公众号及小程序开发
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/webmajor08.jpg9.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li" style='width:100%'>开发原生的UI界面</view>
+      <view class="li" style='width:100%'>表单组件的应用</view>
+      <view class="li" style='width:100%'>交互反馈及多媒体组件</view>
+      <view class="li" style='width:100%'>数据存储及后台交互</view>
+      <view class="li" style='width:100%'>QQ音乐项目开发</view>
+      <view class="li" style='width:100%'>微信小游戏项目开发</view>
+    </view>
+  </view>
+</view>
+<view class="out">
+  <view class="outTit">
+    前端项目全栈开发
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/webmajor09.jpg10.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">企业网站效果图设计</view>
+      <view class="li">企业网站代码实现</view>
+      <view class="li">后台数据交互</view>
+      <view class="li">网站测试与发布</view>
+      <view class="li">项目谈单技巧</view>
+    </view>
+  </view>
+</view>
+
+<footerView></footerView>

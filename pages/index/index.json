@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "headerView":"/component/headerView/headerView",
+    "footerView":"/component/footerView/footerView",
+    "pubTitle":"/component/pubTitle/pubTitle",
+    "itemView":"/component/itemView/itemView"
+  }
+}

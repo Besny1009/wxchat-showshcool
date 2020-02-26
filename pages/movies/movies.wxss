@@ -1,0 +1,111 @@
+
+.banner image{
+  width: 750rpx;
+  height: 1000rpx;
+  display: block;
+}
+
+.out{
+  padding: 60rpx 0;
+  background: #E8F4FF;
+}
+
+.out:nth-child(2n){
+  background: #533BA8;
+}
+
+.out:nth-child(2n) .txt .li{
+  color: #fff;
+}
+.out:nth-child(2n) .txt .li::before{
+  background: #fff;
+}
+
+.out .outTit{
+  width: 550rpx;
+  height: 65rpx;
+  background: #de2e05;
+  /* border-radius: 65rpx; */
+  line-height: 65rpx;
+  text-align: center;
+  color: #fff;
+  font-size: 34rpx;
+  margin: 0 90rpx;
+  position: relative;
+  margin-bottom: 50rpx;
+}
+.out .outTit::after{
+  width: 550rpx;
+  height: 65rpx;
+  display: block;
+  content: "";
+  border: 2rpx dashed #de2e05;
+  position: absolute;
+  top: 0rpx;
+  left: 0rpx;
+  transform: scale(1.03,1.3);
+  /* border-radius: 65rpx; */
+  box-sizing: border-box;
+}
+
+.outConIcon{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.outConIcon .item{
+  padding: 0 20rpx 20rpx;
+  color: #000;
+  font-size: 28rpx;
+  text-align: center;
+  margin-top: 30rpx;
+}
+
+.outConIcon .item image{
+  width: 200rpx;
+  height: 200rpx;
+  border-radius: 50%;
+  display: block;
+}
+.outConIcon .item view{
+  padding-top: 15rpx;
+}
+
+.outConTxt .pic{
+  margin-bottom: 60rpx;
+}
+.outConTxt .pic image{
+  width: 750rpx;
+  height: 447rpx;
+}
+
+.outConTxt .txt{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0 30rpx;
+}
+
+.outConTxt .txt .li{
+  width: 50%;
+  font-size: 28rpx;
+  position: relative;
+  box-sizing: border-box;
+  padding: 10rpx 30rpx;
+  color: #000;
+}
+
+.outConTxt .txt .li::before{
+  display: block;
+  content: "";
+  width: 6rpx;
+  height: 6rpx;
+  background: #000;
+  position: absolute;
+  top: 27rpx;
+  left: 16rpx;
+  border-radius: 6rpx;
+
+}
+

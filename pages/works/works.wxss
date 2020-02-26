@@ -1,0 +1,88 @@
+.tabBar{
+  white-space: nowrap;
+  box-shadow: 0 10rpx 10rpx rgba(0, 0, 0, .3);
+  position: relative;
+  z-index: 99;
+}
+.items{
+  display: inline-block;
+  width: 20%;
+  text-align: center;
+  font-size: 30rpx;
+  line-height: 2em;
+ 
+}
+
+.active{
+  position: relative;
+}
+
+.active::after{
+  display: block;
+  content: "";
+  width: 50rpx;
+  height: 5rpx;
+  background: #2aa2f8;
+  box-sizing: border-box;
+  border-radius: 10rpx;
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  margin-left: -25rpx;
+}
+
+.workContent{
+  padding: 20rpx 10rpx;
+  background: rgba(0, 0, 0, .1);
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  
+}
+.themContent{
+  width: 350rpx;
+  border-radius: 5rpx;
+  background: #fff;
+  margin-bottom: 20rpx;
+}
+.themContent image{
+  width: 350rpx;
+  height: 219rpx;
+  display: block;
+}
+
+.themContent .title{
+  font-size: 24rpx;
+  color: #222;
+  padding: 10rpx;
+  text-align: justify;
+}
+
+
+
+.typeLook{
+  display: flex;
+  justify-content: space-between;
+  padding: 10rpx;
+}
+.type{
+  font-size: 20rpx;
+  color: #666;
+}
+
+.look{
+  display: flex;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+}
+.look image{
+  width: 30rpx;
+  height: 30rpx;
+  /* display: block; */
+}
+.lookNumber{
+  font-size: 20rpx;
+  color: #666;
+}

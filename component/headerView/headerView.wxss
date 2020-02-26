@@ -1,0 +1,32 @@
+.header{
+  height: 90rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 30rpx;
+  border-bottom: 1rpx solid #000;
+}
+
+.header .logo image {
+  width: 245rpx;
+  height: 60rpx;
+}
+.header .wxchat{
+  margin: 0rpx;
+  padding:0rpx;
+  width: 60rpx;
+  height: 60rpx;
+  background: none;
+}
+.header .wxchat::after{
+  border: none;
+}
+.header .wxchat image{
+  width: 60rpx;
+  height: 60rpx;
+  animation: wxchat 1s alternate infinite;
+}
+@keyframes wxchat{
+  0%,50%,100%{opacity: 1}
+  25%,75%{opacity: 0}
+}

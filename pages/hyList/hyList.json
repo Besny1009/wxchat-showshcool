@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "itemView":"/component/itemView/itemView",
+    "loadingNumber":"/component/loadingNumber/loadingNumber"
+  },
+  "enablePullDownRefresh":true,
+  "backgroundTextStyle":"dark"
+}

@@ -1,0 +1,4 @@
+<view class="pubTitle">
+    <view class="txt">{{title}}</view>
+    <navigator class="more" url="{{moreurl}}" open-type="reLaunch">更多 > </navigator>
+  </view>

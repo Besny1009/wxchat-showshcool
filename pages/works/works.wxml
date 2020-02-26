@@ -1,0 +1,26 @@
+<scroll-view class="tabBar"  scroll-x scroll-left="{{scrollX}}" scroll-with-animation>
+  <block wx:for="{{typeList}}" wx:key="{{item.id}}">
+    <view bindtap="navBtn" class="items {{index == idx ? 'active' : ''}}" data-cid="{{item.id}}" data-idx="{{index}}">{{item.classname}}</view>
+  </block>
+  
+</scroll-view>
+
+<view class="workContent">
+  <block wx:for="{{worksList}}" wx:key="*this">
+    <navigator open-type="navigateTo" url="/pages/detail/detail?id={{item.id}}">
+      <view class="themContent">
+        <image src="{{item.picurl}}"></image>
+        <view class="title">{{item.title}}</view>
+        <view class="typeLook">
+          <view class="type">{{item.classname}}</view>
+          <view class="look">
+            <image class="lookImage" src="/images/look.png"></image>
+            <view class="lookNumber">{{item.hits}}</view>
+          </view>
+        </view>
+      </view>
+    </navigator>
+  </block>
+</view>
+
+<loadingNumber loadStatus="{{loadStatus}}"></loadingNumber>

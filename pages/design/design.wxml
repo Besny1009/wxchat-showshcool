@@ -1,0 +1,233 @@
+<headerView></headerView>
+
+<view class="banner">
+  <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_3ds_snBanner.jpg"></image>
+</view>
+
+
+<view class="out">
+  <view class="outTit">
+    专业软件技能
+  </view>
+  <view class="outCon outConIcon">
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/jn01.png"></image>
+      <view>3D MAX</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_3ds_jn02.png"></image>
+      <view>CAD</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_3ds_jn03.png"></image>
+      <view>Photoshop</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_3ds_jn04.png"></image>
+      <view>SketchUp</view>
+    </view>
+    <view class="item">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_3ds_jn05.png"></image>
+      <view>Vray</view>
+    </view>
+  </view>
+</view>
+
+
+<view class="out">
+  <view class="outTit">
+    软装设计全案通
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="/http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_3ds_major02.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">软装配饰色彩</view>
+      <view class="li">软装风格定位</view>
+      <view class="li">家居格调运用</view>
+      <view class="li">全屋定制软装配饰</view>
+      <view class="li">软装方案汇报</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    施工工艺与现场管理
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_3dsmajor03.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">装饰材料品类详解</view>
+      <view class="li">五大工种施工工艺</view>
+      <view class="li">常见造型施工工艺</view>
+      <view class="li">特殊造型施工工艺</view>
+      <view class="li">施工流程及现场管控</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    家装设计
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_3dsmajorjz (1).jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">地中海风格设计</view>
+      <view class="li">现代简约风格设计</view>
+      <view class="li">中式风格设计</view>
+      <view class="li">欧式风格设计</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    工装设计
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_3ds_majorzn (2).jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">工装项目招投标</view>
+      <view class="li">五大工种施工工艺</view>
+      <view class="li">酒店及餐饮空间设计</view>
+      <view class="li">办公空间设计</view>
+      <view class="li">展示空间设计</view>
+      <view class="li">公共类建设空间</view>
+      <view class="li">民宿项目规划与设计</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    智能化家居设计
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_3ds_majorzn (1).jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li" style='width:100%'>智能化家居概念与发展趋势</view>
+      <view class="li" style='width:100%'>智能化家居设备的应用</view>
+      <view class="li" style='width:100%'>智能化家居设计原则</view>
+      <view class="li" style='width:100%'>智能化家居案例分析</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    样板间设计
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_3ds_majorqw (1).jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li" style='width:100%'>全屋定制家具的组织功能及分部</view>
+      <view class="li" style='width:100%'>全屋定制测量规范</view>
+      <view class="li" style='width:100%'>全屋定制家具轴测图及方案快速表达</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    样板间设计
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_3ds_major07 (2).jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">样板间设计商业分析</view>
+      <view class="li" style='width:100%'>样板间设计空间功能需求与空间划分方法</view>
+      <view class="li">样板间设计案例详解</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    豪宅与别墅空间设计
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_3ds_major07 (1).jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li" style='width:100%'>豪宅与别墅类型分析</view>
+      <view class="li" style='width:100%'>豪宅与别墅空间划分与组织</view>
+      <view class="li" style='width:100%'>豪宅与别墅风格定位</view>
+      <view class="li" style='width:100%'>豪宅与别墅方案设计与表达</view>
+    </view>
+  </view>
+</view>
+
+
+<view class="out">
+  <view class="outTit">
+    720°全景效果图、轴测图
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_3ds_majorqw (1).jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">全景效果图应用领域</view>
+      <view class="li">全景效果图制作</view>
+      <view class="li">全景效果图发布与应用</view>
+      <view class="li">轴测图方案设计与表达</view>
+    </view>
+  </view>
+</view>
+
+
+<view class="out">
+  <view class="outTit">
+    谈单与营销模拟课堂
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_3dsmajor09.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li" style='width:100%'>客户接洽规范</view>
+      <view class="li" style='width:100%'>客户心理分析与沟通</view>
+      <view class="li" style='width:100%'>方案营销技巧</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    项目实训
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="http://nsedu.oss-cn-beijing.aliyuncs.com/nsedu-m/2019_3ds_major10.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">方案立项</view>
+      <view class="li">空间分析与改造</view>
+      <view class="li">平立面方案设计</view>
+      <view class="li">软装设计</view>
+      <view class="li">设计方案效果图表现</view>
+      <view class="li">施工图深化</view>
+      <view class="li">方案陈述</view>
+    </view>
+  </view>
+</view>
+
+
+
+<footerView></footerView>

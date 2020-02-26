@@ -1,0 +1,8 @@
+<view class="header">
+  <view class="logo">
+    <image src="/images/logo.png"></image>
+  </view>
+  <button class="wxchat" open-type="contact">
+    <image src="/images/wxchat.png"></image>
+  </button>
+</view>

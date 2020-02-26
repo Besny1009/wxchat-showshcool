@@ -1,0 +1,4 @@
+<button class="loading" loading="{{loadStatus}}">
+  <text wx:if="{{loadStatus}}">页面加载中...</text>
+  <text wx:else>没有新数据</text>
+</button>

@@ -1,0 +1,132 @@
+<headerView></headerView>
+<view class="banner">
+  <swiper indicator-dots indicator-color="rgb(255,255,255,.6)" indicator-active-color="rgb(255,255,255,1)" autoplay circular>
+    <swiper-item>
+      <image src="/images/banner1.jpg"></image>
+    </swiper-item>
+     <swiper-item>
+      <image src="/images/banner2.jpg"></image>
+    </swiper-item>
+     <swiper-item>
+      <image src="/images/banner3.jpg"></image>
+    </swiper-item>
+  </swiper>
+</view>
+<view class="subject">
+  <scroll-view class="subOut" scroll-x>
+    <view class="subBox">
+      <navigator url="/pages/ps/ps">
+        <image src="/images/kecheng1.png"></image>
+        <view>平面设计</view>
+      </navigator>
+      
+    </view>
+    <view class="subBox">
+      <navigator url="/pages/design/design">
+        <image src="/images/kecheng2.png"></image>
+        <view>室内设计</view>
+      </navigator>
+    </view>
+
+    <view class="subBox">
+      <navigator  url="/pages/ui/ui">
+        <image src="/images/kecheng3.png"></image>
+        <view>UI设计</view>
+      </navigator>
+    </view>
+    <view class="subBox">
+    <navigator url="/pages/web/web">
+      <image src="/images/kecheng4.png"></image>
+      <view>Web前端</view>
+    </navigator>
+     
+    </view>
+    <view class="subBox">
+      <navigator url="/pages/movies/movies">
+        <image src="/images/kecheng5.png"></image>
+        <view>影视后期</view>
+      </navigator>
+     
+    </view>
+    <view class="subBox">
+      <navigator url="/pages/business/business">
+        <image src="/images/kecheng6.png"></image>
+        <view>电子商务</view>
+      </navigator>
+     
+    </view>
+  </scroll-view>
+
+
+</view>
+
+<view class="works">
+  <pubTitle title="学生作品" moreurl="/pages/works/works"></pubTitle>
+  <view class="wkCon">
+    <navigator open-type="reLaunch" url="/pages/works/works?cid=20&idx=3">
+      <image src="/images/xszp1.jpg"></image>
+      <view class="ceng">
+        <view class="txt">UI设计作品</view>
+        <view class="line"></view>
+        <view class="des">Film and television later</view>
+      </view>
+    </navigator>
+    <navigator open-type="reLaunch" url="/pages/works/works?cid=21&idx=4">
+      <image src="/images/xszp2.jpg"></image>
+      <view class="ceng">
+        <view class="txt">电商设计作品</view>
+        <view class="line"></view>
+        <view class="des">Film and television later</view>
+      </view>
+    </navigator>
+    <navigator open-type="reLaunch" url="/pages/works/works?cid=19&idx=2">
+      <image src="/images/xszp3.jpg"></image>
+      <view class="ceng">
+        <view class="txt">室内设计作品</view>
+        <view class="line"></view>
+        <view class="des">Film and television later</view>
+      </view>
+    </navigator>
+    <navigator open-type="reLaunch" url="/pages/works/works?cid=18&idx=1">
+      <image src="/images/xszp4.jpg"></image>
+      <view class="ceng">
+        <view class="txt">平面设计作品</view>
+        <view class="line"></view>
+        <view class="des">Film and television later</view>
+      </view>
+    </navigator>
+    <navigator open-type="reLaunch" url="/pages/works/works?cid=23&idx=6">
+      <image src="/images/xszp5.jpg"></image>
+      <view class="ceng">
+        <view class="txt">Web前端设计作品</view>
+        <view class="line"></view>
+        <view class="des">Film and television later</view>
+      </view>
+    </navigator>
+    <navigator open-type="reLaunch" url="/pages/works/works?cid=22&idx=5">
+      <image src="/images/xszp7.jpg"></image>
+      <view class="ceng">
+        <view class="txt">影视后期设计作品</view>
+        <view class="line"></view>
+        <view class="des">Film and television later</view>
+      </view>
+    </navigator>
+  </view>
+  
+</view>
+
+
+<view class="hangye">
+  <pubTitle title="行业" moreurl="/pages/hyList/hyList"></pubTitle>
+  <view class="hyCon">
+    <block wx:for="{{listArr}}" wx:key="*this">
+        <itemView datas="{{item}}"></itemView>
+    </block>
+    
+    
+  </view>
+</view>
+
+<footerView></footerView>
+
+

@@ -1,0 +1,124 @@
+<headerView></headerView>
+
+<view class="banner">
+  <image src="/images/psbanner.jpg"></image>
+</view>
+
+
+<view class="out">
+  <view class="outTit">
+    专业软件技能
+  </view>
+  <view class="outCon outConIcon">
+    <view class="item">
+      <image src="/images/ruanjian(1).png"></image>
+      <view>Photoshop</view>
+    </view>
+    <view class="item">
+      <image src="/images/ruanjian(2).png"></image>
+      <view>Photoshop</view>
+    </view>
+    <view class="item">
+      <image src="/images/ruanjian(3).png"></image>
+      <view>Photoshop</view>
+    </view>
+    <view class="item">
+      <image src="/images/ruanjian(4).png"></image>
+      <view>Photoshop</view>
+    </view>
+    <view class="item">
+      <image src="/images/ruanjian(5).png"></image>
+      <view>Photoshop</view>
+    </view>
+  </view>
+</view>
+
+
+<view class="out">
+  <view class="outTit">
+    视觉效果设计
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="/images/psmajor02.jpg2.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">人像精修</view>
+      <view class="li">商业广告片调色</view>
+      <view class="li">商业海报级视觉精修</view>
+      <view class="li">卡通人物制作</view>
+      <view class="li">2.5D插画制作</view>
+      <view class="li">3D文字视觉特效制作</view>
+      <view class="li">平面广告创意</view>
+      <view class="li">合成效果制作</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    商业平面广告设计
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="/images/psmajor03.jpg3.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">人像精修</view>
+      <view class="li">商业广告片调色</view>
+      <view class="li">商业海报级视觉精修</view>
+      <view class="li">卡通人物制作</view>
+      <view class="li">2.5D插画制作</view>
+      <view class="li">3D文字视觉特效制作</view>
+      <view class="li">平面广告创意</view>
+      <view class="li">合成效果制作</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    Logo及字体设计
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="/images/psmajor04.jpg4.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">人像精修</view>
+      <view class="li">商业广告片调色</view>
+      <view class="li">商业海报级视觉精修</view>
+      <view class="li">卡通人物制作</view>
+      <view class="li">2.5D插画制作</view>
+      <view class="li">3D文字视觉特效制作</view>
+      <view class="li">平面广告创意</view>
+      <view class="li">合成效果制作</view>
+    </view>
+  </view>
+</view>
+
+<view class="out">
+  <view class="outTit">
+    VI系统设计
+  </view>
+  <view class="outCon outConTxt">
+    <view class="pic">
+      <image src="/images/psmajor05.jpg5.jpg"></image>
+    </view>
+    <view class="txt">
+      <view class="li">人像精修</view>
+      <view class="li">商业广告片调色</view>
+      <view class="li">商业海报级视觉精修</view>
+      <view class="li">卡通人物制作</view>
+      <view class="li">2.5D插画制作</view>
+      <view class="li">3D文字视觉特效制作</view>
+      <view class="li">平面广告创意</view>
+      <view class="li">合成效果制作</view>
+    </view>
+  </view>
+</view>
+
+
+
+
+<footerView></footerView>
